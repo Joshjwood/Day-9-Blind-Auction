@@ -32,7 +32,7 @@ while Ask_again == True:
     Ask_again = False
   else: 
     clear()
-
+clear()
 find_highest_bidder(bid_history)
 
 
